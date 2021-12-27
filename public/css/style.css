@@ -1,4 +1,4 @@
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -9,11 +9,11 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
 }
-img{
+img {
   width: 100%;
 }
-figure{
+figure {
   width: 20%;
 }
