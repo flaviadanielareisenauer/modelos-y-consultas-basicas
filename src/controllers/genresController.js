@@ -1,6 +1,5 @@
 let db = require("../database/models");
 
-
 module.exports = {
   list: (req, res) => {
     db.Genres.findAll().then((resultados) => {
